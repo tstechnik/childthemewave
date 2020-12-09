@@ -1,0 +1,22 @@
+{
+    "name": "adesign/wavechild-theme",
+    "description": "This is a child of Wave Theme for Oxid eShop 6",
+    "type": "oxideshop-theme",
+    "keywords": [
+        "oxid",
+        "themes",
+        "eShop"
+    ],
+    "homepage": "https://www.artan-design.de",
+    "license": [ 
+        "GPL-3.0-only",
+        "proprietary"
+    ],
+    "minimum-stability": "dev",
+    "extra": {
+        "oxideshop": {
+            "target-directory": "norsg",
+            "asset-directory": "out/norsg"
+        }
+    }
+}
