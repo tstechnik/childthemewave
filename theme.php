@@ -16,5 +16,5 @@ $aTheme = [
         ]
     ],
     'parentTheme'   => 'wave',
-    'parentVersions'=> ['1.5.0']
+    'parentVersions'=> ['1.3.1']
 ];
